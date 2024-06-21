@@ -3,6 +3,7 @@
     "name": "reactNative",
     "slug": "reactNative",
     "version": "1.0.0",
+    "scheme": "reactnative",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
